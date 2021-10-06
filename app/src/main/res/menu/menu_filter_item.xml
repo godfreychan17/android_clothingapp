@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/drawer_price"
+            android:title="@string/filter_item_price" />
+        <item
+            android:id="@+id/drawer_brand"
+            android:title="@string/filter_item_brand" />
+        <item
+            android:id="@+id/drawer_department"
+            android:title="@string/filter_item_department" />
+
+        <item
+            android:id="@+id/drawer_footwear"
+            android:title="@string/filter_item_footwear" />
+    </group>
+</menu>

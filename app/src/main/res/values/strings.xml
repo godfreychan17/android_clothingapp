@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">EndClothingTestProject</string>
+
+    <string name="num_of_product_unit">items</string>
+
+    <string name="tabbar_sort">Sort</string>
+    <string name="tabbar_view">View</string>
+    <string name="button_filter">Filter</string>
+
+
+    <string name="SpinnerSort_Latest">Latest</string>
+    <string name="SpinnerSort_PriceHigh">Price (High)</string>
+    <string name="SpinnerSort_PriceLow">Price (Low)</string>
+
+    <string name="SpinnerView_Product">Product</string>
+    <string name="SpinnerView_Outfit">Outfit</string>
+    <string name="SpinnerView_Large">Large</string>
+    <string name="SpinnerView_Small">Small</string>
+
+    <string name="filter_item_price">PRICE</string>
+    <string name="filter_item_brand">BRAND</string>
+    <string name="filter_item_department">DEPARTMENT</string>
+    <string name="filter_item_footwear">FOOTWEAR STYLE</string>
+
+    <string name="Error_Message">Connection error, Please try again later!</string>
+    <string name="No_Network_Message">No network connection, Please try again later!</string>
+    <string name="Dialog_Retry">Retry</string>
+
+
+</resources>

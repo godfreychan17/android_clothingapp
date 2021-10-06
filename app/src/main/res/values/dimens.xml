@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="appbar_height">60dp</dimen>
+
+    <dimen name="productlisting_header_margin"> 10dp</dimen>
+
+    <dimen name="TriangleShapeSize">12dp</dimen>
+    <dimen name="TickShapeSize">10dp</dimen>
+
+    <dimen name="SpinnerItemHeight">60dp</dimen>
+
+    <dimen name="product_grid_font_size">16sp</dimen>
+    <dimen name="tabbar_font_size">16sp</dimen>
+    <dimen name="tabbar_content_font_size">14sp</dimen>
+</resources>
